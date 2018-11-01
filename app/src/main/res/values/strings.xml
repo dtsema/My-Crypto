@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">myCrypto</string>
+
+    <string-array
+        name="Currency">
+        <item>cardano</item>
+        <item>bitcoincash</item>
+        <item>bitcoin</item>
+        <item>dash</item>
+        <item>eos</item>
+        <item>ethereumclassic</item>
+        <item>ethereum</item>
+        <item>icon</item>
+        <item>litecoin</item>
+        <item>iota</item>
+        <item>neo</item>
+        <item>qtum</item>
+        <item>tron</item>
+        <item>nem</item>
+        <item>stellarlumens</item>
+        <item>monero</item>
+        <item>ripple</item>
+        <item>tezos</item>
+
+
+
+
+    </string-array>
+    <string-array name="Symbols">
+        <item>ADA</item>
+        <item>BCH</item>
+        <item>BTC</item>
+        <item>DASH</item>
+        <item>EOS</item>
+        <item>ETC</item>
+        <item>ETH</item>
+        <item>ICX</item>
+        <item>LTC</item>
+        <item>MIOTA</item>
+        <item>NEO</item>
+        <item>QTUM</item>
+        <item>TRX</item>
+        <item>XEM</item>
+        <item>XLM</item>
+        <item>XMR</item>
+        <item>XRP</item>
+        <item>XTZ</item>
+
+    </string-array>
+</resources>
