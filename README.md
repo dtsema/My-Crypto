@@ -1,6 +1,8 @@
 # My-Crypto
 An Android App to view up to date crypto prices, while easily tracking and storing your profit and loss.
-(Pending app store approval)
+
+APK download:
+https://drive.google.com/file/d/1_0SzKGmujCWft1Wo1p9n0rQhDHdb_xjR/view?usp=sharing
 
 Features:
 
